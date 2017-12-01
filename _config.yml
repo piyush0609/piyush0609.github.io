@@ -72,8 +72,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-hacker
-
+#theme: jekyll-theme-hacker
+remote_theme: sjaakvandenberg/flexy
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
