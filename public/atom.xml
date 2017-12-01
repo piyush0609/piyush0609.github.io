@@ -5,11 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-<<<<<<< Updated upstream
   <updated>2017-12-01T16:12:46.513Z</updated>
-=======
-  <updated>2017-12-01T15:37:35.079Z</updated>
->>>>>>> Stashed changes
   <id>http://yoursite.com/</id>
   
   <author>
@@ -24,11 +20,7 @@
     <link href="http://yoursite.com/2017/12/01/python-list/"/>
     <id>http://yoursite.com/2017/12/01/python-list/</id>
     <published>2017-12-01T13:27:52.000Z</published>
-<<<<<<< Updated upstream
     <updated>2017-12-01T16:12:46.513Z</updated>
-=======
-    <updated>2017-12-01T15:37:35.079Z</updated>
->>>>>>> Stashed changes
     
     <content type="html"><![CDATA[<p>Lists can be used to store multiple elements of the same or different datatypes. Lists are variable length data structure. If you are new you will be using this a lot and if you have been using it, let me share some more tips and tricks.</p>
 <figure class="highlight py"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">abc = list()</div></pre></td></tr></table></figure>
@@ -58,11 +50,7 @@
     <link href="http://yoursite.com/2017/12/01/Collections/"/>
     <id>http://yoursite.com/2017/12/01/Collections/</id>
     <published>2017-12-01T13:04:39.000Z</published>
-<<<<<<< Updated upstream
     <updated>2017-12-01T16:12:46.513Z</updated>
-=======
-    <updated>2017-12-01T16:07:50.195Z</updated>
->>>>>>> Stashed changes
     
     <content type="html"><![CDATA[<p>Python provides a collection framework which is a set of high quality and reusable data structures and algorithms.</p>
 <p>Why Python Collection Framework ??</p>
@@ -89,11 +77,7 @@
     <link href="http://yoursite.com/2017/08/05/The-Holy-Grail-Of-Programming/"/>
     <id>http://yoursite.com/2017/08/05/The-Holy-Grail-Of-Programming/</id>
     <published>2017-08-05T11:30:19.000Z</published>
-<<<<<<< Updated upstream
     <updated>2017-12-01T16:12:46.513Z</updated>
-=======
-    <updated>2017-08-05T18:37:25.073Z</updated>
->>>>>>> Stashed changes
     
     <content type="html"><![CDATA[<p>Yayy!! I finally sorted myself and convinced myself to write the first post on my blog. Its been 1 year since my blog was up but I wasnt able to post something on it. Call me lazy but I was really occupied last 1 year. I had time for everything but no time to write. Now that I am here, it feels great.</p>
 <p>Took almost 2 hours to setup the system and configure hexo to write my first post. I used Hexo for a little while last year so had to go through the docs again. I love reading the docs if they are good. If the docs for some library is good, it tells how much the creator wants us to use it and spread words about the library as he has poured some hard work in it. So if you are creating something try to make the documentation as good as possible.<br><a id="more"></a><br>But this post is not about Hexo, To learn about it visit this <a href="/2017/08/05/hello-world/">Hello World</a>. It is about why I developed an interest for Computer Science &amp; Programming and what are the options you have if you have longing for Programming.</p>
