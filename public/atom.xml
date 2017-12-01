@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Yoda</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-05T17:40:19.563Z</updated>
+  <updated>2017-12-01T16:11:03.530Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Piyush Sinha</name>
     
   </author>
   
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/08/05/The-Holy-Grail-Of-Programming/"/>
     <id>http://yoursite.com/2017/08/05/The-Holy-Grail-Of-Programming/</id>
     <published>2017-08-05T11:30:19.000Z</published>
-    <updated>2017-08-05T17:40:19.563Z</updated>
+    <updated>2017-12-01T16:11:03.530Z</updated>
     
     <content type="html"><![CDATA[<p>Yayy!! I finally sorted myself and convinced myself to write the first post on my blog. Its been 1 year since my blog was up but I wasnt able to post something on it. Call me lazy but I was really occupied last 1 year. I had time for everything but no time to write. Now that I am here, it feels great.</p>
 <p>Took almost 2 hours to setup the system and configure hexo to write my first post. I used Hexo for a little while last year so had to go through the docs again. I love reading the docs if they are good. If the docs for some library is good, it tells how much the creator wants us to use it and spread words about the library as he has poured some hard work in it. So if you are creating something try to make the documentation as good as possible.</p>
