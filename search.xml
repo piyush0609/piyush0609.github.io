@@ -4,7 +4,7 @@
     
     <entry>
       <title><![CDATA[Lists in Python]]></title>
-      <url>/2017/12/01/python-list/</url>
+      <url>/public/2017/12/01/python-list/</url>
       <content type="html"><![CDATA[<p>Lists can be used to store multiple elements of the same or different datatypes. Lists are variable length data structure. If you are new you will be using this a lot and if you have been using it, let me share some more tips and tricks.</p>
 <figure class="highlight py"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">abc = list()</div></pre></td></tr></table></figure>
 <p><code>abc.append()</code> Adds at the end of the list. Time Complexity O(1)</p>
@@ -28,7 +28,7 @@
     
     <entry>
       <title><![CDATA[Collections In Python !!]]></title>
-      <url>/2017/12/01/Collections/</url>
+      <url>/public/2017/12/01/Collections/</url>
       <content type="html"><![CDATA[<p>Python provides a collection framework which is a set of high quality and reusable data structures and algorithms.</p>
 <p>Why Python Collection Framework ??</p>
 <p>1 . Basic Data Structures And Algorithms. So just import and use accordingly.<br>2 . Code is well tested and high quality.<br>3 . Well Documented.</p>
@@ -48,7 +48,7 @@
     
     <entry>
       <title><![CDATA[The Holy Grail Of Programming]]></title>
-      <url>/2017/08/05/The-Holy-Grail-Of-Programming/</url>
+      <url>/public/2017/08/05/The-Holy-Grail-Of-Programming/</url>
       <content type="html"><![CDATA[<p>Yayy!! I finally sorted myself and convinced myself to write the first post on my blog. Its been 1 year since my blog was up but I wasnt able to post something on it. Call me lazy but I was really occupied last 1 year. I had time for everything but no time to write. Now that I am here, it feels great.</p>
 <p>Took almost 2 hours to setup the system and configure hexo to write my first post. I used Hexo for a little while last year so had to go through the docs again. I love reading the docs if they are good. If the docs for some library is good, it tells how much the creator wants us to use it and spread words about the library as he has poured some hard work in it. So if you are creating something try to make the documentation as good as possible.<br><a id="more"></a><br>But this post is not about Hexo, To learn about it visit this <a href="/2017/08/05/hello-world/">Hello World</a>. It is about why I developed an interest for Computer Science &amp; Programming and what are the options you have if you have longing for Programming.</p>
 <p>This book is my personal favourite and it is written by Dennis Ritchie and his partner Brian W Kernighan. Dennis Ritchie a pioneer in computer science developed C which became foundation for technologies that were subsequently derived from it.</p>
@@ -69,7 +69,7 @@
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>/2017/08/05/hello-world/</url>
+      <url>/public/2017/08/05/hello-world/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>

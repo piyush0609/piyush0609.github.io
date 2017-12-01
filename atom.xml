@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Yoda</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/public/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://piyush0609.github.io/"/>
   <updated>2017-12-01T16:12:46.513Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://piyush0609.github.io/</id>
   
   <author>
     <name>Piyush Sinha</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Lists in Python</title>
-    <link href="http://yoursite.com/2017/12/01/python-list/"/>
-    <id>http://yoursite.com/2017/12/01/python-list/</id>
+    <link href="http://piyush0609.github.io/2017/12/01/python-list/"/>
+    <id>http://piyush0609.github.io/2017/12/01/python-list/</id>
     <published>2017-12-01T13:27:52.000Z</published>
     <updated>2017-12-01T16:12:46.513Z</updated>
     
@@ -38,17 +38,17 @@
     
     </summary>
     
-      <category term="Sports" scheme="http://yoursite.com/categories/Sports/"/>
+      <category term="Sports" scheme="http://piyush0609.github.io/categories/Sports/"/>
     
-      <category term="Baseball" scheme="http://yoursite.com/categories/Sports/Baseball/"/>
+      <category term="Baseball" scheme="http://piyush0609.github.io/categories/Sports/Baseball/"/>
     
     
   </entry>
   
   <entry>
     <title>Collections In Python !!</title>
-    <link href="http://yoursite.com/2017/12/01/Collections/"/>
-    <id>http://yoursite.com/2017/12/01/Collections/</id>
+    <link href="http://piyush0609.github.io/2017/12/01/Collections/"/>
+    <id>http://piyush0609.github.io/2017/12/01/Collections/</id>
     <published>2017-12-01T13:04:39.000Z</published>
     <updated>2017-12-01T16:12:46.513Z</updated>
     
@@ -65,17 +65,17 @@
     
     </summary>
     
-      <category term="Sports" scheme="http://yoursite.com/categories/Sports/"/>
+      <category term="Sports" scheme="http://piyush0609.github.io/categories/Sports/"/>
     
-      <category term="Baseball" scheme="http://yoursite.com/categories/Sports/Baseball/"/>
+      <category term="Baseball" scheme="http://piyush0609.github.io/categories/Sports/Baseball/"/>
     
     
   </entry>
   
   <entry>
     <title>The Holy Grail Of Programming</title>
-    <link href="http://yoursite.com/2017/08/05/The-Holy-Grail-Of-Programming/"/>
-    <id>http://yoursite.com/2017/08/05/The-Holy-Grail-Of-Programming/</id>
+    <link href="http://piyush0609.github.io/2017/08/05/The-Holy-Grail-Of-Programming/"/>
+    <id>http://piyush0609.github.io/2017/08/05/The-Holy-Grail-Of-Programming/</id>
     <published>2017-08-05T11:30:19.000Z</published>
     <updated>2017-12-01T16:12:46.513Z</updated>
     
@@ -93,17 +93,17 @@
     
     </summary>
     
-      <category term="Programming" scheme="http://yoursite.com/categories/Programming/"/>
+      <category term="Programming" scheme="http://piyush0609.github.io/categories/Programming/"/>
     
-      <category term="How to Start" scheme="http://yoursite.com/categories/Programming/How-to-Start/"/>
+      <category term="How to Start" scheme="http://piyush0609.github.io/categories/Programming/How-to-Start/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/08/05/hello-world/"/>
-    <id>http://yoursite.com/2017/08/05/hello-world/</id>
+    <link href="http://piyush0609.github.io/2017/08/05/hello-world/"/>
+    <id>http://piyush0609.github.io/2017/08/05/hello-world/</id>
     <published>2017-08-05T09:34:06.826Z</published>
     <updated>2017-08-05T09:34:06.826Z</updated>
     
