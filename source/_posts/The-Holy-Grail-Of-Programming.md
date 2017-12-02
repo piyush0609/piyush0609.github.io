@@ -17,4 +17,4 @@ This book is my personal favourite and it is written by Dennis Ritchie and his p
 This book is neatly written and covers all important practices of C programming language.
 Have patience read it. Build up your potential and determination.
 
-![](/images/tcpl.jpg)
+![](/public/images/tcpl.jpg)

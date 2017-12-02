@@ -4,9 +4,9 @@
   
   <link href="/public/atom.xml" rel="self"/>
   
-  <link href="http://piyush0609.github.io/"/>
+  <link href="http://piyush0609.github.io/public/"/>
   <updated>2017-12-01T16:12:46.513Z</updated>
-  <id>http://piyush0609.github.io/</id>
+  <id>http://piyush0609.github.io/public/</id>
   
   <author>
     <name>Piyush Sinha</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Lists in Python</title>
-    <link href="http://piyush0609.github.io/2017/12/01/python-list/"/>
-    <id>http://piyush0609.github.io/2017/12/01/python-list/</id>
+    <link href="http://piyush0609.github.io/public/2017/12/01/python-list/"/>
+    <id>http://piyush0609.github.io/public/2017/12/01/python-list/</id>
     <published>2017-12-01T13:27:52.000Z</published>
     <updated>2017-12-01T16:12:46.513Z</updated>
     
@@ -38,17 +38,17 @@
     
     </summary>
     
-      <category term="Sports" scheme="http://piyush0609.github.io/categories/Sports/"/>
+      <category term="Sports" scheme="http://piyush0609.github.io/public/categories/Sports/"/>
     
-      <category term="Baseball" scheme="http://piyush0609.github.io/categories/Sports/Baseball/"/>
+      <category term="Baseball" scheme="http://piyush0609.github.io/public/categories/Sports/Baseball/"/>
     
     
   </entry>
   
   <entry>
     <title>Collections In Python !!</title>
-    <link href="http://piyush0609.github.io/2017/12/01/Collections/"/>
-    <id>http://piyush0609.github.io/2017/12/01/Collections/</id>
+    <link href="http://piyush0609.github.io/public/2017/12/01/Collections/"/>
+    <id>http://piyush0609.github.io/public/2017/12/01/Collections/</id>
     <published>2017-12-01T13:04:39.000Z</published>
     <updated>2017-12-01T16:12:46.513Z</updated>
     
@@ -65,25 +65,25 @@
     
     </summary>
     
-      <category term="Sports" scheme="http://piyush0609.github.io/categories/Sports/"/>
+      <category term="Sports" scheme="http://piyush0609.github.io/public/categories/Sports/"/>
     
-      <category term="Baseball" scheme="http://piyush0609.github.io/categories/Sports/Baseball/"/>
+      <category term="Baseball" scheme="http://piyush0609.github.io/public/categories/Sports/Baseball/"/>
     
     
   </entry>
   
   <entry>
     <title>The Holy Grail Of Programming</title>
-    <link href="http://piyush0609.github.io/2017/08/05/The-Holy-Grail-Of-Programming/"/>
-    <id>http://piyush0609.github.io/2017/08/05/The-Holy-Grail-Of-Programming/</id>
+    <link href="http://piyush0609.github.io/public/2017/08/05/The-Holy-Grail-Of-Programming/"/>
+    <id>http://piyush0609.github.io/public/2017/08/05/The-Holy-Grail-Of-Programming/</id>
     <published>2017-08-05T11:30:19.000Z</published>
-    <updated>2017-12-01T16:12:46.513Z</updated>
+    <updated>2017-12-02T14:31:43.523Z</updated>
     
     <content type="html"><![CDATA[<p>Yayy!! I finally sorted myself and convinced myself to write the first post on my blog. Its been 1 year since my blog was up but I wasnt able to post something on it. Call me lazy but I was really occupied last 1 year. I had time for everything but no time to write. Now that I am here, it feels great.</p>
 <p>Took almost 2 hours to setup the system and configure hexo to write my first post. I used Hexo for a little while last year so had to go through the docs again. I love reading the docs if they are good. If the docs for some library is good, it tells how much the creator wants us to use it and spread words about the library as he has poured some hard work in it. So if you are creating something try to make the documentation as good as possible.<br><a id="more"></a><br>But this post is not about Hexo, To learn about it visit this <a href="/2017/08/05/hello-world/">Hello World</a>. It is about why I developed an interest for Computer Science &amp; Programming and what are the options you have if you have longing for Programming.</p>
 <p>This book is my personal favourite and it is written by Dennis Ritchie and his partner Brian W Kernighan. Dennis Ritchie a pioneer in computer science developed C which became foundation for technologies that were subsequently derived from it.</p>
 <p>This book is neatly written and covers all important practices of C programming language.<br>Have patience read it. Build up your potential and determination.</p>
-<p><img src="/images/tcpl.jpg" alt=""></p>
+<p><img src="/public/images/tcpl.jpg" alt=""></p>
 ]]></content>
     
     <summary type="html">
@@ -93,17 +93,17 @@
     
     </summary>
     
-      <category term="Programming" scheme="http://piyush0609.github.io/categories/Programming/"/>
+      <category term="Programming" scheme="http://piyush0609.github.io/public/categories/Programming/"/>
     
-      <category term="How to Start" scheme="http://piyush0609.github.io/categories/Programming/How-to-Start/"/>
+      <category term="How to Start" scheme="http://piyush0609.github.io/public/categories/Programming/How-to-Start/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://piyush0609.github.io/2017/08/05/hello-world/"/>
-    <id>http://piyush0609.github.io/2017/08/05/hello-world/</id>
+    <link href="http://piyush0609.github.io/public/2017/08/05/hello-world/"/>
+    <id>http://piyush0609.github.io/public/2017/08/05/hello-world/</id>
     <published>2017-08-05T09:34:06.826Z</published>
     <updated>2017-08-05T09:34:06.826Z</updated>
     
